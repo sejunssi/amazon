@@ -1,0 +1,6 @@
+.idea/*
+*.json
+2014/*.json
+2018/*.json
+resul/*.json
+*.txt
